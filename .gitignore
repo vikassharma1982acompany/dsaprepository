@@ -1,0 +1,6 @@
+.classpath
+*.jar
+target/
+*.prefs
+generated/
+src/main/java/com/sape/net/json/service/PlayerServiceImpl.java
